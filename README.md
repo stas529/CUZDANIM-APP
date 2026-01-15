@@ -29,6 +29,9 @@ Cüzdanım, kullanıcıların günlük mali kayıtlarını (gelir/gider) kolayca
   
   <b>Ana Ekran</b><br>
   <img src="screenshots/home.png" width="300"><br><br>
+
+  <b>Bakiye Yetersiz</b><br>
+  <img src="screenshots/kediiiiiii.png" width="300"><br><br>
   
   <b>Profil Sayfası</b><br>
   <img src="screenshots/profil.png" width="300"><br><br>
@@ -38,6 +41,7 @@ Cüzdanım, kullanıcıların günlük mali kayıtlarını (gelir/gider) kolayca
   
   <b>Analiz Grafikleri</b><br>
   <img src="screenshots/grafik.png" width="300">
+  
 </p>
 
 ## 🚀 Kurulum ve Çalıştırma
