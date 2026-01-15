@@ -23,13 +23,22 @@ Cüzdanım, kullanıcıların günlük mali kayıtlarını (gelir/gider) kolayca
 
 ## 📸 Uygulama Ekran Görüntüleri
 
-| Giriş Ekranı | Ana Ekran | Profil |
-|:---:|:---:|:---:|
-| ![Giriş](screenshots/giris.png) | ![Home](screenshots/home.png) | ![Profil](screenshots/profil.png) |
-
-| Geçmiş İşlemler | Analiz Grafikleri |
-|:---:|:---:|
-| ![Geçmiş](screenshots/gecmisislemler.png) | ![Grafik](screenshots/grafik.png) |
+<p align="center">
+  <b>Giriş Ekranı</b><br>
+  <img src="screenshots/giris.png" width="300"><br><br>
+  
+  <b>Ana Ekran</b><br>
+  <img src="screenshots/home.png" width="300"><br><br>
+  
+  <b>Profil Sayfası</b><br>
+  <img src="screenshots/profil.png" width="300"><br><br>
+  
+  <b>Geçmiş İşlemler</b><br>
+  <img src="screenshots/gecmisislemler.png" width="300"><br><br>
+  
+  <b>Analiz Grafikleri</b><br>
+  <img src="screenshots/grafik.png" width="300">
+</p>
 
 ## 🚀 Kurulum ve Çalıştırma
 1. Projeyi klonlayın veya indirin.
